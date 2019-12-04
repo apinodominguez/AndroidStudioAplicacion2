@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicacion2</string>
+    <string name="Tittle">Eres capaz de completar todos los retos?</string>
+    <string name="boton1">Historia</string>
+    <string name="boton2">Biologia</string>
+    <string name="boton3">Matematicas</string>
+    <string name="boton4">Lengua</string>
+
+</resources>
