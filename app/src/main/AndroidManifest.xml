@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".retoHistoria"></activity>
+        <activity android:name=".retoLanguage"></activity>
+        <activity android:name=".retoBiology" />
+        <activity android:name=".retoMath" />
+        <activity android:name=".retoHistoria" />
         <activity
             android:name=".retoActivity"
             android:label="@string/title_activity_reto"

@@ -8,6 +8,8 @@
     <string name="title_activity_reto">retoActivity</string>
     <string name="Pregunta">En que año se descubrio america?</string>
     <string name="comprobar">Submit</string>
+    <string name="botonAyuda">Pista</string>
+    <string name="textoNum">Calcula el resultado de la siguiente operacion: 2+2 = ?</string>
 
 
 </resources>
