@@ -14,7 +14,8 @@ class retoMath : AppCompatActivity() {
 
         comprobar.setOnClickListener {
             var valor = Integer.parseInt(respuesta.text.toString())
-            if (valor.equals(4)) {
+            var valory = Integer.parseInt(respuesta2.text.toString())
+            if (valor.equals(1) && valory.equals(1)) {
                 val data = Intent()
                 setResult(Activity.RESULT_OK, data)
                 finish()

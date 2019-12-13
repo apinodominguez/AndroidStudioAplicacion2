@@ -9,7 +9,10 @@
     <string name="Pregunta">En que año se descubrio america?</string>
     <string name="comprobar">Submit</string>
     <string name="botonAyuda">Pista</string>
-    <string name="textoNum">Calcula el resultado de la siguiente operacion: 2+2 = ?</string>
-
+    <string name="textoNum">Calcula el resultado de la siguiente operacion: y+x = 2</string>
+    <string name="textoReto2">Saca una foto a una flor de color azul</string>
+    <string name="textoReto3">En que idioma esta hecha la cancion que suena?</string>
+    <string name="botonimagen">Pista</string>
+    <string name="botonaudio">Reproducir</string>
 
 </resources>
